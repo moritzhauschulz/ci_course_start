@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ci course project'
-copyright = '2025, Moritz Hauschulz'
-author = 'Moritz Hauschulz'
+project = 'new attempt at ci'
+copyright = '2025, mo'
+author = 'mo'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
