@@ -18,6 +18,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip setuptools wheel
+        python -m pip install .[dev]
     - name: Run codecov
       run: |
         pytest --cov-config=.coveragerc --cov=./ci_course --cov-report=xml
