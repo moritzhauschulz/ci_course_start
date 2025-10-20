@@ -10,6 +10,8 @@ Welcome to new attempt at ci's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   usage/installation
+   usage/quickstart
 
 
 Indices and tables
