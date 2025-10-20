@@ -8,7 +8,7 @@ Welcome to ci course project's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
    usage/installation
    usage/quickstart
 
