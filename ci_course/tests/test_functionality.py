@@ -22,4 +22,4 @@ def test_invalid_input():
     """
     Test the function `minimum` in functionality.py
     """
-    assert ci_course.minimum('not valid input') == None
+    assert ci_course.minimum('not valid input') is None
